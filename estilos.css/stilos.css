@@ -1,6 +1,21 @@
 body
 {
-    color: blueviolet;
-    text-align: center;
+    color: blue;
+    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px ;
+    margin: auto;
+    padding: 0;
+}
+#container 
+{
+    width: 100;
+    padding: 1 cm;
+    text-align: left;
+    border: 1px solid color green;
+    margin: auto;
+}
+#container h1
+{
+    font-size: 20px;
 }
