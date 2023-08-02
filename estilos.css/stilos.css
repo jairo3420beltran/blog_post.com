@@ -3,7 +3,7 @@ body
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px ;
-    margin: auto;
+    margin: 0;
     padding: 0;
     color: brown;
 }
@@ -12,7 +12,7 @@ body
     width: 50%;
     padding: 1 cm;
     text-align: left;
-    border: 1px solid color rgb(128, 0, 17);
+    border: 3px solid #ddd;
     margin: auto;
 }
 #post
