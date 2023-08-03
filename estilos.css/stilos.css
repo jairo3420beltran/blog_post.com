@@ -1,21 +1,46 @@
 body
 {
-    text-align: left;
-    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-family: Arial;
     font-size: 20px ;
     margin: 0;
     padding: 0;
-    color: brown;
+    color:#333;
 }
+
+#cabecera
+{
+    background: #33a;   
+    box-shadow: 0px 2px 20px 0px rgba(0, 0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecwera #tangline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+
+}
+
 #container 
 {
     width: 50%;
-    padding: 1 cm;
+    padding: 0;
     text-align: left;
     border: 3px solid #ddd;
     margin: auto;
 }
+
+#container h1
+{
+    font-size:  20px;
+}
+
 #post
 {
-    font-size: 30px;
+    padding: 1em;
 }
