@@ -7,11 +7,12 @@ body
     font-size: 20px ;
     margin: 0;
     padding: 0;
+    color:#E33C22;
 }
 
 #cabecera
 {
-    background: #4c2763;
+    background: #9C6730;
     box-shadow: 0px 2px 20px 0px rgba(0, 0,0,0.5);
     color: white;
     font-weight: bold;
